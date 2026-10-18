@@ -1,0 +1,156 @@
+Record_ID,Student_ID,Date,Study_Hours,Screen_Time_Hours,Sleep_Hours,Assignment_Count,Exercise_Minutes,Classes_Attended,Classes_Scheduled,Attendance_Percent,Late_Night_Screen_Hours,Routine_Change_Score,Behavior_Pattern,Behavior_Pattern_Encoded,Behavior_Pattern_Decoded
+R00001,STU001,2026-01-01,5.7,3.3,8.2,0,60,46,50,92.0,0.5,0.07,Stable Routine,0,Stable Routine
+R00002,STU001,2026-01-02,4.5,4.5,8.2,1,45,42,50,84.0,0.3,0.1,Stable Routine,0,Stable Routine
+R00003,STU001,2026-01-03,5.3,3.6,7.1,2,45,40,50,80.0,0.3,0.2,Stable Routine,0,Stable Routine
+R00004,STU001,2026-01-04,3.6,3.3,7.1,0,90,44,50,88.0,0.5,0.15,Stable Routine,0,Stable Routine
+R00005,STU001,2026-01-05,5.4,4.2,7.3,0,90,46,50,92.0,0.3,0.24,Stable Routine,0,Stable Routine
+R00006,STU001,2026-01-06,5.7,4.4,6.4,1,60,41,50,82.0,0.8,0.07,Stable Routine,0,Stable Routine
+R00007,STU001,2026-01-07,3.6,3.9,8.4,0,30,41,50,82.0,0.4,0.09,Stable Routine,0,Stable Routine
+R00008,STU001,2026-01-08,4.5,4.2,8.1,2,60,47,50,94.0,0.7,0.07,Stable Routine,0,Stable Routine
+R00009,STU001,2026-01-09,5.2,3.1,7.6,1,90,47,50,94.0,0.6,0.2,Stable Routine,0,Stable Routine
+R00010,STU001,2026-01-10,3.6,5.9,8.2,2,60,42,50,84.0,0.5,0.16,Stable Routine,0,Stable Routine
+R00011,STU001,2026-01-11,5.2,3.8,8.0,0,60,46,50,92.0,0.6,0.18,Stable Routine,0,Stable Routine
+R00012,STU001,2026-01-12,4.7,4.4,8.2,0,30,42,50,84.0,0.7,0.25,Stable Routine,0,Stable Routine
+R00013,STU001,2026-01-13,5.8,3.5,6.4,0,60,46,50,92.0,0.5,0.25,Stable Routine,0,Stable Routine
+R00014,STU001,2026-01-14,5.2,4.0,7.4,2,60,48,50,96.0,0.4,0.18,Stable Routine,0,Stable Routine
+R00015,STU001,2026-01-15,4.9,5.9,8.1,0,30,43,50,86.0,0.8,0.12,Stable Routine,0,Stable Routine
+R00016,STU001,2026-01-16,5.5,4.0,7.8,1,90,40,50,80.0,0.5,0.2,Stable Routine,0,Stable Routine
+R00017,STU001,2026-01-17,5.1,5.9,8.0,2,60,45,50,90.0,0.3,0.26,Stable Routine,0,Stable Routine
+R00018,STU001,2026-01-18,5.0,3.3,8.1,2,60,43,50,86.0,0.4,0.07,Stable Routine,0,Stable Routine
+R00019,STU001,2026-01-19,4.7,3.5,7.2,2,60,47,50,94.0,0.7,0.11,Stable Routine,0,Stable Routine
+R00020,STU001,2026-01-20,4.9,3.1,8.3,0,90,40,50,80.0,0.6,0.13,Stable Routine,0,Stable Routine
+R00021,STU001,2026-01-21,5.1,4.3,8.3,0,90,47,50,94.0,0.7,0.22,Stable Routine,0,Stable Routine
+R00022,STU001,2026-01-22,4.5,3.2,7.8,1,60,48,50,96.0,0.6,0.11,Stable Routine,0,Stable Routine
+R00023,STU001,2026-01-23,5.0,4.1,8.1,0,90,43,50,86.0,0.3,0.14,Stable Routine,0,Stable Routine
+R00024,STU001,2026-01-24,5.8,3.9,8.2,1,30,42,50,84.0,0.5,0.17,Stable Routine,0,Stable Routine
+R00025,STU001,2026-01-25,5.7,3.1,8.5,1,30,42,50,84.0,0.4,0.27,Stable Routine,0,Stable Routine
+R00026,STU001,2026-01-26,5.4,4.5,7.1,0,30,44,50,88.0,0.3,0.12,Stable Routine,0,Stable Routine
+R00027,STU001,2026-01-27,5.5,3.9,7.1,2,45,45,50,90.0,0.4,0.11,Stable Routine,0,Stable Routine
+R00028,STU001,2026-01-28,5.6,3.5,7.4,2,45,48,50,96.0,0.7,0.27,Stable Routine,0,Stable Routine
+R00029,STU001,2026-01-29,5.5,4.1,8.2,2,60,43,50,86.0,0.2,0.19,Stable Routine,0,Stable Routine
+R00030,STU001,2026-01-30,5.4,3.0,7.1,1,60,45,50,90.0,0.4,0.08,Stable Routine,0,Stable Routine
+R00031,STU001,2026-01-31,5.2,4.3,7.3,1,60,44,50,88.0,0.6,0.08,Stable Routine,0,Stable Routine
+R00032,STU002,2026-01-01,1.8,8.5,4.5,0,15,4,50,8.0,3.1,0.79,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00033,STU002,2026-01-02,1.2,8.3,4.3,0,10,2,50,4.0,2.9,0.79,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00034,STU002,2026-01-03,3.6,5.9,4.1,0,10,8,50,16.0,3.2,0.92,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00035,STU002,2026-01-04,1.3,10.0,4.2,0,10,2,50,4.0,3.7,0.94,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00036,STU002,2026-01-05,1.6,9.3,4.1,0,15,3,50,6.0,2.8,0.96,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00037,STU002,2026-01-06,1.9,9.7,4.8,0,10,8,50,16.0,3.5,0.78,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00038,STU002,2026-01-07,3.6,9.8,4.2,0,5,2,50,4.0,3.1,0.84,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00039,STU002,2026-01-08,1.3,9.7,4.0,0,10,3,50,6.0,3.1,0.86,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00040,STU002,2026-01-09,1.4,9.9,4.7,0,5,5,50,10.0,3.7,0.94,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00041,STU002,2026-01-10,1.6,9.7,4.7,0,5,8,50,16.0,3.6,0.92,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00042,STU002,2026-01-11,1.8,8.6,5.1,0,5,5,50,10.0,2.9,0.97,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00043,STU002,2026-01-12,2.0,9.1,4.8,0,5,8,50,16.0,2.9,0.89,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00044,STU002,2026-01-13,1.1,9.9,5.2,0,10,2,50,4.0,3.5,0.85,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00045,STU002,2026-01-14,3.6,9.7,5.0,0,10,5,50,10.0,2.9,0.91,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00046,STU002,2026-01-15,1.5,8.5,4.7,0,5,6,50,12.0,3.2,0.94,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00047,STU002,2026-01-16,1.7,5.9,4.5,0,15,7,50,14.0,3.3,0.96,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00048,STU002,2026-01-17,1.6,9.5,4.9,0,15,5,50,10.0,3.6,0.92,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00049,STU002,2026-01-18,3.6,9.1,4.5,0,10,2,50,4.0,2.8,0.97,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00050,STU002,2026-01-19,1.9,8.5,4.8,0,5,4,50,8.0,3.4,0.89,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00051,STU002,2026-01-20,1.4,9.5,5.1,0,10,7,50,14.0,3.9,0.95,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00052,STU002,2026-01-21,1.6,8.8,4.3,0,5,5,50,10.0,4.0,0.98,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00053,STU002,2026-01-22,1.6,8.5,4.2,0,15,5,50,10.0,3.8,0.97,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00054,STU002,2026-01-23,1.9,8.1,4.0,0,5,7,50,14.0,3.7,0.86,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00055,STU002,2026-01-24,3.6,9.7,5.0,0,10,2,50,4.0,2.8,0.78,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00056,STU002,2026-01-25,2.0,10.0,4.7,0,5,6,50,12.0,3.7,0.92,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00057,STU002,2026-01-26,2.0,9.2,6.4,0,5,2,50,4.0,3.7,0.76,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00058,STU002,2026-01-27,1.8,9.0,5.0,0,10,7,50,14.0,4.0,0.77,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00059,STU002,2026-01-28,1.8,9.2,4.8,0,15,8,50,16.0,3.9,0.89,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00060,STU002,2026-01-29,1.4,9.8,4.4,0,10,8,50,16.0,3.3,0.96,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00061,STU002,2026-01-30,1.1,9.9,4.6,0,5,6,50,12.0,4.0,0.86,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00062,STU002,2026-01-31,1.5,8.9,4.7,0,15,4,50,8.0,3.0,0.9,Risky / Unusual Routine,2,Risky / Unusual Routine
+R00063,STU003,2026-01-01,3.3,7.4,6.4,2,15,22,50,44.0,2.0,0.5,Moderate Stress,1,Moderate Stress
+R00064,STU003,2026-01-02,3.2,5.9,6.0,1,10,24,50,48.0,1.9,0.41,Moderate Stress,1,Moderate Stress
+R00065,STU003,2026-01-03,3.9,5.6,5.9,0,5,30,50,60.0,1.8,0.7,Moderate Stress,1,Moderate Stress
+R00066,STU003,2026-01-04,3.1,6.4,6.5,1,15,31,50,62.0,1.5,0.61,Moderate Stress,1,Moderate Stress
+R00067,STU003,2026-01-05,3.2,6.6,5.8,0,15,21,50,42.0,1.6,0.41,Moderate Stress,1,Moderate Stress
+R00068,STU003,2026-01-06,2.8,6.2,6.1,1,15,31,50,62.0,1.8,0.54,Moderate Stress,1,Moderate Stress
+R00069,STU003,2026-01-07,3.1,5.8,5.9,1,10,27,50,54.0,1.8,0.47,Moderate Stress,1,Moderate Stress
+R00070,STU003,2026-01-08,3.6,5.9,5.8,1,15,24,50,48.0,1.3,0.64,Moderate Stress,1,Moderate Stress
+R00071,STU003,2026-01-09,3.5,7.5,6.7,2,15,27,50,54.0,2.0,0.48,Moderate Stress,1,Moderate Stress
+R00072,STU003,2026-01-10,3.4,6.1,6.5,1,10,30,50,60.0,1.5,0.53,Moderate Stress,1,Moderate Stress
+R00073,STU003,2026-01-11,3.7,5.7,6.2,2,5,29,50,58.0,1.7,0.42,Moderate Stress,1,Moderate Stress
+R00074,STU003,2026-01-12,2.8,6.9,5.6,2,5,31,50,62.0,1.2,0.44,Moderate Stress,1,Moderate Stress
+R00075,STU003,2026-01-13,3.6,7.0,6.0,0,15,20,50,40.0,2.1,0.45,Moderate Stress,1,Moderate Stress
+R00076,STU003,2026-01-14,3.7,7.0,6.5,2,5,27,50,54.0,1.4,0.47,Moderate Stress,1,Moderate Stress
+R00077,STU003,2026-01-15,3.1,7.1,6.1,1,15,29,50,58.0,1.8,0.56,Moderate Stress,1,Moderate Stress
+R00078,STU003,2026-01-16,3.3,5.6,5.8,2,15,26,50,52.0,1.6,0.5,Moderate Stress,1,Moderate Stress
+R00079,STU003,2026-01-17,3.3,7.3,6.4,1,5,20,50,40.0,1.5,0.47,Moderate Stress,1,Moderate Stress
+R00080,STU003,2026-01-18,3.2,7.0,5.6,0,15,29,50,58.0,1.6,0.54,Moderate Stress,1,Moderate Stress
+R00081,STU003,2026-01-19,3.6,6.9,6.3,2,10,23,50,46.0,1.5,0.5,Moderate Stress,1,Moderate Stress
+R00082,STU003,2026-01-20,3.1,6.1,6.3,1,5,27,50,54.0,1.3,0.43,Moderate Stress,1,Moderate Stress
+R00083,STU003,2026-01-21,3.6,6.9,6.7,2,10,31,50,62.0,2.0,0.51,Moderate Stress,1,Moderate Stress
+R00084,STU003,2026-01-22,3.9,6.4,5.6,0,10,28,50,56.0,2.0,0.44,Moderate Stress,1,Moderate Stress
+R00085,STU003,2026-01-23,3.4,6.3,6.5,1,5,27,50,54.0,1.2,0.5,Moderate Stress,1,Moderate Stress
+R00086,STU003,2026-01-24,3.2,6.5,6.7,2,15,21,50,42.0,1.7,0.44,Moderate Stress,1,Moderate Stress
+R00087,STU003,2026-01-25,3.0,7.1,5.9,1,10,27,50,54.0,1.9,0.45,Moderate Stress,1,Moderate Stress
+R00088,STU003,2026-01-26,3.3,5.9,5.9,0,10,31,50,62.0,1.9,0.46,Moderate Stress,1,Moderate Stress
+R00089,STU003,2026-01-27,3.4,6.1,6.4,1,10,27,50,54.0,1.7,0.54,Moderate Stress,1,Moderate Stress
+R00090,STU003,2026-01-28,3.6,7.4,6.0,1,15,27,50,54.0,1.8,0.52,Moderate Stress,1,Moderate Stress
+R00091,STU003,2026-01-29,2.5,5.9,5.8,2,15,27,50,54.0,1.2,0.43,Moderate Stress,1,Moderate Stress
+R00092,STU003,2026-01-30,2.6,6.0,6.4,1,15,27,50,54.0,2.2,0.68,Moderate Stress,1,Moderate Stress
+R00093,STU003,2026-01-31,2.5,5.7,5.8,2,5,21,50,42.0,2.1,0.59,Moderate Stress,1,Moderate Stress
+R00094,STU004,2026-01-01,5.0,3.1,8.2,0,45,41,50,82.0,0.7,0.14,Stable Routine,0,Stable Routine
+R00095,STU004,2026-01-02,4.7,3.8,8.5,2,90,47,50,94.0,0.3,0.17,Stable Routine,0,Stable Routine
+R00096,STU004,2026-01-03,4.9,3.2,8.3,1,45,48,50,96.0,0.7,0.22,Stable Routine,0,Stable Routine
+R00097,STU004,2026-01-04,5.2,3.1,7.6,1,45,43,50,86.0,0.6,0.08,Stable Routine,0,Stable Routine
+R00098,STU004,2026-01-05,4.9,3.9,7.7,1,30,47,50,94.0,0.7,0.15,Stable Routine,0,Stable Routine
+R00099,STU004,2026-01-06,5.6,3.1,7.9,1,30,45,50,90.0,0.4,0.12,Stable Routine,0,Stable Routine
+R00100,STU004,2026-01-07,5.9,3.6,8.4,1,30,42,50,84.0,0.5,0.12,Stable Routine,0,Stable Routine
+R00101,STU004,2026-01-08,5.2,3.9,7.5,1,45,40,50,80.0,0.3,0.07,Stable Routine,0,Stable Routine
+R00102,STU004,2026-01-09,4.9,4.2,8.2,2,45,48,50,96.0,0.2,0.08,Stable Routine,0,Stable Routine
+R00103,STU004,2026-01-10,5.9,3.7,7.3,1,90,40,50,80.0,0.7,0.23,Stable Routine,0,Stable Routine
+R00104,STU004,2026-01-11,3.6,4.4,8.0,2,45,45,50,90.0,0.2,0.22,Stable Routine,0,Stable Routine
+R00105,STU004,2026-01-12,5.2,3.5,7.2,2,30,44,50,88.0,0.3,0.08,Stable Routine,0,Stable Routine
+R00106,STU004,2026-01-13,5.8,3.5,8.2,0,45,43,50,86.0,0.6,0.11,Stable Routine,0,Stable Routine
+R00107,STU004,2026-01-14,5.2,3.6,7.9,0,90,47,50,94.0,0.7,0.13,Stable Routine,0,Stable Routine
+R00108,STU004,2026-01-15,4.5,4.3,7.0,2,30,41,50,82.0,0.5,0.28,Stable Routine,0,Stable Routine
+R00109,STU004,2026-01-16,5.1,3.7,7.9,2,30,40,50,80.0,0.7,0.15,Stable Routine,0,Stable Routine
+R00110,STU004,2026-01-17,5.2,3.4,6.4,1,45,42,50,84.0,0.6,0.12,Stable Routine,0,Stable Routine
+R00111,STU004,2026-01-18,5.5,3.3,8.4,0,30,48,50,96.0,0.3,0.15,Stable Routine,0,Stable Routine
+R00112,STU004,2026-01-19,4.8,4.5,6.4,0,60,41,50,82.0,0.3,0.26,Stable Routine,0,Stable Routine
+R00113,STU004,2026-01-20,4.8,4.2,7.5,0,45,48,50,96.0,0.8,0.27,Stable Routine,0,Stable Routine
+R00114,STU004,2026-01-21,3.6,4.0,7.2,2,45,42,50,84.0,0.6,0.24,Stable Routine,0,Stable Routine
+R00115,STU004,2026-01-22,5.1,3.4,7.7,2,30,48,50,96.0,0.7,0.06,Stable Routine,0,Stable Routine
+R00116,STU004,2026-01-23,5.1,3.6,7.4,0,90,41,50,82.0,0.5,0.07,Stable Routine,0,Stable Routine
+R00117,STU004,2026-01-24,4.6,4.3,7.8,2,45,40,50,80.0,0.5,0.22,Stable Routine,0,Stable Routine
+R00118,STU004,2026-01-25,5.7,4.0,8.3,2,90,47,50,94.0,0.6,0.26,Stable Routine,0,Stable Routine
+R00119,STU004,2026-01-26,4.8,4.3,8.4,0,60,45,50,90.0,0.7,0.05,Stable Routine,0,Stable Routine
+R00120,STU004,2026-01-27,5.7,4.2,7.8,2,45,41,50,82.0,0.4,0.2,Stable Routine,0,Stable Routine
+R00121,STU004,2026-01-28,5.7,3.2,7.4,2,45,47,50,94.0,0.5,0.26,Stable Routine,0,Stable Routine
+R00122,STU004,2026-01-29,5.9,4.0,7.1,2,90,45,50,90.0,0.6,0.07,Stable Routine,0,Stable Routine
+R00123,STU004,2026-01-30,3.6,4.5,8.5,2,60,41,50,82.0,0.6,0.15,Stable Routine,0,Stable Routine
+R00124,STU004,2026-01-31,4.9,3.0,7.2,1,30,42,50,84.0,0.8,0.08,Stable Routine,0,Stable Routine
+R00125,STU005,2026-01-01,2.8,5.7,6.4,1,15,30,50,60.0,1.5,0.69,Moderate Stress,1,Moderate Stress
+R00126,STU005,2026-01-02,3.5,5.9,5.9,2,15,24,50,48.0,1.6,0.67,Moderate Stress,1,Moderate Stress
+R00127,STU005,2026-01-03,3.6,6.6,6.1,2,10,28,50,56.0,1.4,0.43,Moderate Stress,1,Moderate Stress
+R00128,STU005,2026-01-04,3.6,5.8,5.5,1,15,26,50,52.0,1.4,0.54,Moderate Stress,1,Moderate Stress
+R00129,STU005,2026-01-05,3.1,5.9,6.1,2,10,23,50,46.0,1.8,0.48,Moderate Stress,1,Moderate Stress
+R00130,STU005,2026-01-06,3.2,6.9,6.0,2,15,27,50,54.0,1.9,0.6,Moderate Stress,1,Moderate Stress
+R00131,STU005,2026-01-07,3.2,5.7,5.8,0,10,30,50,60.0,1.3,0.55,Moderate Stress,1,Moderate Stress
+R00132,STU005,2026-01-08,3.0,6.5,5.6,0,10,21,50,42.0,1.2,0.42,Moderate Stress,1,Moderate Stress
+R00133,STU005,2026-01-09,3.7,5.9,5.7,0,15,29,50,58.0,1.3,0.67,Moderate Stress,1,Moderate Stress
+R00134,STU005,2026-01-10,3.6,7.2,6.4,1,10,28,50,56.0,1.8,0.55,Moderate Stress,1,Moderate Stress
+R00135,STU005,2026-01-11,3.2,6.8,6.2,1,10,25,50,50.0,1.3,0.42,Moderate Stress,1,Moderate Stress
+R00136,STU005,2026-01-12,3.0,6.4,6.4,0,15,29,50,58.0,1.6,0.41,Moderate Stress,1,Moderate Stress
+R00137,STU005,2026-01-13,3.6,7.4,6.3,1,15,24,50,48.0,1.9,0.42,Moderate Stress,1,Moderate Stress
+R00138,STU005,2026-01-14,3.6,7.0,6.1,1,10,24,50,48.0,2.1,0.57,Moderate Stress,1,Moderate Stress
+R00139,STU005,2026-01-15,3.4,7.1,6.4,2,15,21,50,42.0,1.5,0.51,Moderate Stress,1,Moderate Stress
+R00140,STU005,2026-01-16,2.7,6.9,6.7,2,10,20,50,40.0,1.4,0.69,Moderate Stress,1,Moderate Stress
+R00141,STU005,2026-01-17,3.8,6.4,6.2,0,10,25,50,50.0,1.3,0.6,Moderate Stress,1,Moderate Stress
+R00142,STU005,2026-01-18,3.6,7.0,5.7,0,15,24,50,48.0,1.7,0.47,Moderate Stress,1,Moderate Stress
+R00143,STU005,2026-01-19,3.5,5.8,6.1,2,5,29,50,58.0,1.5,0.51,Moderate Stress,1,Moderate Stress
+R00144,STU005,2026-01-20,3.6,7.2,6.5,2,15,31,50,62.0,1.8,0.56,Moderate Stress,1,Moderate Stress
+R00145,STU005,2026-01-21,3.9,5.6,6.4,1,5,24,50,48.0,2.1,0.49,Moderate Stress,1,Moderate Stress
+R00146,STU005,2026-01-22,3.2,6.9,5.5,0,10,24,50,48.0,2.2,0.57,Moderate Stress,1,Moderate Stress
+R00147,STU005,2026-01-23,2.7,5.6,5.9,1,10,25,50,50.0,1.9,0.45,Moderate Stress,1,Moderate Stress
+R00148,STU005,2026-01-24,3.8,5.9,6.4,2,15,25,50,50.0,2.1,0.6,Moderate Stress,1,Moderate Stress
+R00149,STU005,2026-01-25,3.7,5.7,6.5,0,5,27,50,54.0,1.4,0.6,Moderate Stress,1,Moderate Stress
+R00150,STU005,2026-01-26,2.7,6.7,5.9,0,5,31,50,62.0,2.2,0.63,Moderate Stress,1,Moderate Stress
+R00151,STU005,2026-01-27,3.1,6.2,6.4,1,10,21,50,42.0,2.0,0.64,Moderate Stress,1,Moderate Stress
+R00152,STU005,2026-01-28,3.5,6.2,6.3,1,15,25,50,50.0,1.8,0.51,Moderate Stress,1,Moderate Stress
+R00153,STU005,2026-01-29,2.8,5.6,6.3,1,10,22,50,44.0,1.8,0.54,Moderate Stress,1,Moderate Stress
+R00154,STU005,2026-01-30,3.9,7.1,5.6,0,10,25,50,50.0,1.7,0.47,Moderate Stress,1,Moderate Stress
+R00155,STU005,2026-01-31,3.6,6.5,6.6,2,15,21,50,42.0,2.1,0.42,Moderate Stress,1,Moderate Stress
