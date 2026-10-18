@@ -45,5 +45,4 @@ An interactive Power BI dashboard and advanced data analysis can be added in the
 
 - **Project Title:** Silent Signals – Student Routine Analysis
 - **Project Type:** Data Analytics and Visualization (DAV)
-- **Technologies:** Python, Pandas, NumPy, Microsoft Power BI
 
