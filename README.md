@@ -34,6 +34,9 @@ The project contains 310 records for 10 students during January 2026. It include
 ## Future Scope
 An interactive Power BI dashboard and advanced data analysis can be added in the future.
 
+## Power BI Dashboard Preview
+![Silent Signals Dashboard](dashboardlook.png)
+
 ## Team Members
 
 1. Saloni Warhekar
